@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Singleton Example</string>
+    <string name="kotlin_singleton">Kotlin Singleton</string>
+</resources>
